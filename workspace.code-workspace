@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../filebeat-role"
+		},
+		{
+			"path": "../kibana-role"
+		},
+		{
+			"path": "../../devops-netology-ansible-802"
+		}
+	],
+	"settings": {}
+}
